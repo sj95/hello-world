@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Social media sites
+http://www.facebook.com
+http://www.twitter.com
+http://www.instagram.com
+
 # Distribution / packaging
 .Python
 build/
@@ -89,6 +94,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.temp
 
 # Spyder project settings
 .spyderproject
